@@ -12,6 +12,7 @@ https://datos.gob.ar/dataset/otros-nombres-personas-fisicas/archivo/otros_2.1
 
 lamebtablemetne todavia no vi como agregarle acentos y enies.
 
+Esta inspirado en el paquete {babynames} https://github.com/hadley/babynames
 
 ## Instalacion
 
@@ -21,7 +22,7 @@ devtools::install_github("jas1/nombres")
 
 ```
 
-## Example
+## Ejemplo
 
 
 ``` r
@@ -33,4 +34,3 @@ head(nombres)
 tail(nombres)
 
 ```
-
